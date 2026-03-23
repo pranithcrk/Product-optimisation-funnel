@@ -1,0 +1,1 @@
+["start_hour", "day_of_week", "is_weekend", "session_duration_sec", "total_events", "unique_products", "unique_brands", "unique_categories", "view_count", "cart_count", "avg_price", "max_price", "min_price", "price_range", "prior_sessions", "prior_purchases", "days_since_first_seen", "days_since_last_session", "cart_to_view_ratio", "product_diversity_ratio", "is_returning_user"]
